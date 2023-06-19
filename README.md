@@ -1,2 +1,2 @@
-# KimiaFarma
-Project-Based Virtual Intern : Data Analytics - Kimia Farma x Rakamin Academy
+# Project-Based Virtual Intern : Data Analytics - Kimia Farma x Rakamin Academy
+
